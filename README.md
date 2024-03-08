@@ -21,11 +21,11 @@ Vista inicial:
 
 ![Ejercicio4-6-7_Vista_Inicial](https://github.com/Lenny-noel-de-leon-reyes/Ejercicios_4-6-7/assets/158470011/1aab1455-cbd4-4e47-8321-83f2d635ff84)
 
-Caso en el que el estudiante aprueva:
+Momento en el cual se ingresan los datos y se presiona el Boton "Calcular"(Caso en el que el estudiante aprueva):
 
 ![Ejercicio4-6-7_2](https://github.com/Lenny-noel-de-leon-reyes/Ejercicios_4-6-7/assets/158470011/9be7f843-5bd6-4c82-82d3-35a7aeca37d8)
 
-Caso en el que reprueve:
+Momento en el cual se ingresan los datos y se presiona el Boton "Calcular"(Caso en el que reprueve):
 
 ![Ejercicio4-6-7_3](https://github.com/Lenny-noel-de-leon-reyes/Ejercicios_4-6-7/assets/158470011/1f34eae1-39db-4dd3-b755-7f164085e4ff)
 
@@ -38,9 +38,10 @@ No supera la prueva completiva:
 
 ![Ejercicio4-6-7_5](https://github.com/Lenny-noel-de-leon-reyes/Ejercicios_4-6-7/assets/158470011/686af07a-6810-4f42-a50b-74686086da99)
 
-Limpieza de Datos:
+Limpieza de datos con el botón "Limpiar"
 
 ![Ejercicio4-6-7_6](https://github.com/Lenny-noel-de-leon-reyes/Ejercicios_4-6-7/assets/158470011/18a8d184-2e6b-4f5b-bef2-b163b8374b1c)
 
 
+Al presionar el boton "Cerrar" se cierra el programa
 
