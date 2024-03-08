@@ -38,6 +38,9 @@ No supera la prueva completiva:
 
 ![Ejercicio4-6-7_5](https://github.com/Lenny-noel-de-leon-reyes/Ejercicios_4-6-7/assets/158470011/686af07a-6810-4f42-a50b-74686086da99)
 
+Limpieza de Datos:
+
+![Ejercicio4-6-7_6](https://github.com/Lenny-noel-de-leon-reyes/Ejercicios_4-6-7/assets/158470011/18a8d184-2e6b-4f5b-bef2-b163b8374b1c)
 
 
 
